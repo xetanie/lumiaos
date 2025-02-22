@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "downloadUrl": "https://github.com/xetanie/lumiaos/raw/refs/heads/main/update.zip",
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/xetanie/lumiaos/releases/download/1.0.1/update.zip",
   "releaseNotes": "First release."
 }
